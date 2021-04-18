@@ -1,2 +1,2 @@
 # Dazz-s-Custom-Weapons-and-Items
-Minecraft Resource Pack
+Minecraft Resource Pack for use with the NSN Server
